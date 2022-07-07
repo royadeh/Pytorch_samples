@@ -1,0 +1,8 @@
+gdown==4.4.0
+torch==1.10.1
+torchvision==0.11.2
+tensorboard==2.9.1
+scikit-learn==0.24.2
+numpy==1.19.5
+pandas==1.1.5
+matplotlib==3.3.4
